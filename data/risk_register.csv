@@ -30,3 +30,4 @@ R028,Pediatric Data,Minor PHI,Long-term Identity Theft,SSNs of minors exploitabl
 R029,Threat Intelligence,SOC Team,Unknown Threat Actors,No threat intelligence program or feeds,Medium,High,10,164.308(a)(1),Identify,Vendor advisories only,No TI program Rhysida TTPs not tracked prior to attack,Subscribe to healthcare-specific threat intelligence feeds (H-ISAC),High,Open
 R030,Recovery Testing,DR Systems,Untested Recovery,Disaster recovery plan never tested before breach,High,Critical,15,164.308(a)(7),Recover,DR plan documented,DR plan existed but never tested 4-month recovery time,Conduct quarterly DR tests with documented RTO/RPO targets,Critical,Open
 # added risk scoring
+# critical risks flagged
