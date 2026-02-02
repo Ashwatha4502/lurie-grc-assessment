@@ -133,3 +133,4 @@ st.plotly_chart(fig4, use_container_width=True)
 st.divider()
 st.caption("Assessment by Ashwatha Narayan | NIST CSF 2.0 | HIPAA | IEC 62443 | May 2026 | GitHub: github.com/Ashwatha4502")
 # hipaa compliance panel
+# nist csf heatmap
