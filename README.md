@@ -165,3 +165,4 @@ Cybersecurity Graduate | GRC Analyst & SOC Analyst Candidate
 *FBI statements, HIPAA Journal, Healthcare Dive, Bleeping Computer, NBC News.*
 *Frameworks: NIST CSF 2.0, HIPAA, IEC 62443, NIST SP 800-30, MITRE ATT&CK for ICS*
 *May 2026*
+
